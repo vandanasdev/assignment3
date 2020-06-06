@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/vandanasdev/assignment3#readme",
   "dependencies": {
-    "apollo-server-express": "^2.10.1",
+    "apollo-server-express": "^2.14.2",
     "express": "^4.17.1",
     "graphql": "^0.13.2",
     "nodemon": "^1.19.4"
